@@ -1,0 +1,7 @@
+Eigenvalues : 
+8.156856
+0.656378
+0.186777
+
+Iterations : 
+9

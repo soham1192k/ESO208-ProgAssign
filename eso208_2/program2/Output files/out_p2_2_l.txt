@@ -1,0 +1,12 @@
+Power Method
+
+The Largest eigenvalue : 
+11.999971
+
+Eigenvector : 
+0.410241
+-0.815697
+0.407849
+
+Iterations : 
+11
