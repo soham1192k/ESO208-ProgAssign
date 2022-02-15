@@ -1,0 +1,20 @@
++++ Output of Linear Spline Interpolation on given data set. +++
+
+Coefficients of the equations in tabular form :
+
+i         c1            c0 
+
+1   0.198800    0.237300
+2   1.724200    1.000000
+3   -1.724200    1.000000
+4   -0.198800    0.237300
+
+
+Interpolated values y* at give x* :
+
+   x*        y*
+
+-0.800     0.078260
+-0.200     0.655160
+0.200     0.655160
+0.800     0.078260

@@ -1,0 +1,5 @@
+Newton Interpolation Polynomial.....
+
+Coefficients of the Polynomial : 
+
+39.500000  -155.500000  165.000000  

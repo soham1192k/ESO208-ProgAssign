@@ -1,0 +1,5 @@
+Lagrange Interpolation Polynomial.....
+
+Coefficients of the Polynomial : 
+
+-0.000175  0.006375  -0.115200  1.000000  

@@ -1,0 +1,8 @@
+LeastSquare Interpolation Polynomial.....
+
+Coefficients of the Polynomial : 
+
+50.261700  -40.709692  12.917014  -0.009668  
+
+R-sq = 0.996541
+
